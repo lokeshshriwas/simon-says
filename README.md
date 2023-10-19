@@ -23,3 +23,4 @@
 1. Your all-time high score is saved in local storage.
 2. Compare your current score with your highest score displayed at the top.
 3. To reset the highest score, click the red "Reset" button at the bottom.
+4. If the game is over, click the "Finish" button to see the highest score and the current score.
