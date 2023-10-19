@@ -17,3 +17,9 @@
 2.	If you make a mistake, you'll see your score and a "finish" button.
 3.	To play again, click the "finish" button first.
 4.	Then, click the "start" button to begin a new game.
+
+# Speacial Features
+
+1. Your all-time high score is saved in local storage.
+2. Compare your current score with your highest score displayed at the top.
+3. To reset the highest score, click the red "Reset" button at the bottom.
