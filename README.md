@@ -3,7 +3,7 @@
 # instructions of the game:
 
 1.	The game starts easy and gets more complicated as you go.
-2.	a random colour box will quickly turn white for half a second when the game begins.
+2.	A random colour box will quickly turn white for half a second when the game begins.
 3.	Watch closely and remember which box turned white.
 4.	Click on the box that you saw blink.
 5.	As you complete each level, remember that you'll have to recall the previous levels.
