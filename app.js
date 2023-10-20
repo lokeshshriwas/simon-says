@@ -1,3 +1,5 @@
+alert("README.md")
+
 let gameSeq = [];
 let userSeq = [];
 
