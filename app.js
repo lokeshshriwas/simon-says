@@ -1,4 +1,4 @@
-alert("README.md")
+alert('In Simon Says, the game starts easy but gets harder. A random color box quickly flashes white for 0.25 seconds when the game begins. Remember the flashing white color and click it. Each level builds on the previous ones. For instance, in level 2, you need to remember levels 1 and 2. As you progress, recall the sequence from all levels. Start by clicking "start." If you make a mistake, your score is shown with a "finish" button. To play again, click "finish," then "start." Your best score is saved, displayed at the top. Reset it with the red "Reset" button. Click "Finish" to see the highest and current scores when the game is over.')
 
 let gameSeq = [];
 let userSeq = [];
